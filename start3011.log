@@ -1,0 +1,19 @@
+
+> portfolio@0.1.0 start
+> next start -p 3011
+
+   ▲ Next.js 15.5.7
+   - Local:        http://localhost:3011
+   - Network:      http://192.168.56.1:3011
+
+ ✓ Starting...
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\A-plus\package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * C:\Users\A-plus\Downloads\mohitvirli.github.io-master\mohitvirli.github.io-master\package-lock.json
+
+[Error: Could not find a production build in the '.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id]
+
+C:\Users\A-plus\Downloads\mohitvirli.github.io-master\mohitvirli.github.io-master>

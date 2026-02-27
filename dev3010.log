@@ -1,0 +1,25 @@
+
+> portfolio@0.1.0 dev
+> next dev -p 3010
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\A-plus\package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * C:\Users\A-plus\Downloads\mohitvirli.github.io-master\mohitvirli.github.io-master\package-lock.json
+
+   ▲ Next.js 15.5.7
+   - Local:        http://localhost:3010
+   - Network:      http://192.168.56.1:3010
+
+ ✓ Starting...
+ ✓ Ready in 2.1s
+ ○ Compiling / ...
+ ✓ Compiled / in 8.4s (1840 modules)
+ GET / 200 in 9247ms
+ ✓ Compiled in 969ms (859 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: EPERM: operation not permitted, rename 'C:\Users\A-plus\Downloads\mohitvirli.github.io-master\mohitvirli.github.io-master\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\A-plus\Downloads\mohitvirli.github.io-master\mohitvirli.github.io-master\.next\cache\webpack\server-development\0.pack.gz'
+[?25h
+
+C:\Users\A-plus\Downloads\mohitvirli.github.io-master\mohitvirli.github.io-master>
